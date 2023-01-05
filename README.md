@@ -13,8 +13,8 @@ Estudante de Desenvolvimento Web Fullstack na [Trybe](https://www.betrybe.com/).
 
 
 <p align='center'>
-  <a href="#"><img width="415px" src="https://github-readme-stats.vercel.app/api?username=GiovannaSDJ&show_icons=true&theme=jolly&count_private=true&service=github" alt=""></a>
-  <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaSDJ&layout=compact&theme=jolly&count_private=true&service=github" alt=""></a>
+  <a href="#"><img width="415px" src="https://github-readme-stats.vercel.app/api?username=GiovannaSDJ&show_icons=true&theme=synthwave&count_private=true&service=github" alt=""></a>
+  <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaSDJ&layout=compact&theme=synthwave&count_private=true&service=github" alt=""></a>
 </p>
 
 
