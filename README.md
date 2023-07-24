@@ -7,7 +7,6 @@
 🌱 I’m currently learning Back-End Web Development at [Trybe](https://www.betrybe.com/)
 
 ### 📊 GitHub Stats:
-<a href="#"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=GiovannaSDJ&theme=omni&hide_border=true&include_all_commits=true&count_private=true" alt=""></a>
 <a href="#"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaSDJ&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt=""></a>
 
 ### 💻 Tech Stack:
